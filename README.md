@@ -1,3 +1,3 @@
 # apna-college
 <br/>
-Author - jatin
+Author - jatin kumar
